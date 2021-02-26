@@ -62,5 +62,20 @@ h1, h2, h3, h4, th, strong, b{ font-family: montb, sans-serif}
 }
 
 h2{  color: #213532; font-size: 40px; line-height: 50px; color: #436d67; margin-bottom: 40px; }
-.text{ font-size: 13px; line-height: 22px; color: #8f9092;}
+.text{ font-size: 13px; line-height: 22px; color: #8f9092; margin-bottom: 20px}
+.text-left{ text-align: left}
 .wrap-4 a{ display: inline-block; width: 185px; line-height: 50px;  color: #436d67; border: 3px solid; text-align: center; margin-top: 47px}
+
+.wrap-5{ background: #fff; padding: 90px 0; text-align: center}
+.wrap-5 h3{ font-size: 30px; line-height: 30px; color: #436d67; margin: 20px 0}
+.wrap-5 .text{ text-align: left}
+.wrap-6{ background: #f0f0f2;  padding: 60px 0; text-align: center}
+
+.wrap-7{ background: #213532; padding: 20px 0; color: #c7cccc; text-align: center;}
+.social{  }
+.social li{ display: inline-block; margin: 15px}
+.social li a{ color: inherit; display: inline-block; font-size: 28px;}
+.wrap-7 nav{ }
+.wrap-7 nav a{ color: inherit;  padding: 0 20px; border-left: 1px solid }
+.wrap-7 nav a:first-child{ border-left: none }
+.wrap-8{ background: #162724; padding: 20px 0; text-align: center; color: #fff;}
